@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-   🪴 一瞥我的世界
+   🪴 
 </h1>
 
 <!--
@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 ## 🌞 个人简介
   Hello，你好，我是晚晴，目前是东北大学的一名硕士在读生，我的专业是计算机科学与工程，研究方向是网络智能运维，包括配置综合与验证等。我的本科专业是软件工程，所以我也很关注系统开发、云原生等技术。我对计算机专业学习的一个内心灯塔是：相信技术、传递价值，因此希望通过开源和大家一起成长😊！
-- 📖 我的主页: [wanqing](https://i-am-wanqing.github.io/)
+- 📖 我的博客: [wanqing](https://i-am-wanqing.github.io/)
 - 📮 邮箱: [2046508079@qq.com]
 
 ## 💗 兴趣
 - 网络智能运维：网络配置综合、网络配置验证等；
-- 全栈应用开发：Web，APP，小程序开发等，做有意思的产品 🔥；
+- 全栈应用开发：Web，APP，小程序开发等，做有意思的产品；
 - 语言：Java，Python，PHP等；
 - 理论：SDN软件定义网络、LLM、网络安全等。
 
