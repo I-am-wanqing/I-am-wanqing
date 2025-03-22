@@ -19,10 +19,12 @@ Here are some ideas to get you started:
    🪴 一瞥我的世界
 </h1>
 
+<!--
 <div align="center" ><img src="https://github.com/user-attachments/assets/9d450559-a2e4-45e1-b399-826b7677ffbc"
      alt="Example Image"
      style="width: 80%; border-radius: 100px;"></div>
 <br>
+-->
 
 ## 🌞 个人简介
   Hello，你好，我是晚晴，目前是东北大学的一名硕士在读生，我的专业是计算机科学与工程，研究方向是网络智能运维，包括配置综合与验证等。我的本科专业是软件工程，所以我也很关注系统开发、云原生等技术。我对计算机专业学习的一个内心灯塔是：相信技术、传递价值，因此希望通过开源和大家一起成长😊！
