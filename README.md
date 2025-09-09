@@ -1,9 +1,3 @@
-
-<h1 align="center">
-   🌞
-</h1>
-
-
 ## 个人简介
 一个在默默努力的普通人～
 - 博客: [wanqing](https://blog.csdn.net/liuwanqing233333)
